@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# 个人信息
+**姓名**：蔡璐
+**性别**：男
+**年龄**：37
+**联系方式**：13591124442
+**电子邮箱**：171723620@qq.com
 
-You can use the [editor on GitHub](https://github.com/cailu0422/cailu0422.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 教育背景
+**黑龙江大学** - 软件工程（2007-2011）
 
-### Markdown
+# 专业技能
+    - 精通 HTML5 和 CSS3，熟练构建语义化页面结构与复杂页面布局，适配不同分辨率的设备，满足a11y标准。
+    - 熟练掌握 JavaScript，精通原生 JavaScript 编程，深入理解 ES6+语法特性，具备良好的面向对象编程思想与函数式编程能力，熟悉 JavaScript 模块化开发。
+    - 熟练掌握主流前端框架的开发，如 Vue.js、React、Angular 等，熟练掌握前端框架的核心概念与使用方法，具备组件化开发与模块化开发能力。
+    - 熟悉前端构建工具与工程化流程，如 Webpack、Vite 等，熟悉构建工具的配置与使用。深入理解其打包原理与优化策略，熟悉 Babel 转译工具。
+    - 了解前端工程化流程，熟悉代码规范（如 ESLint）、自动化测试（如 Jest、Mocha）、持续集成与持续部署（如 Jenkins）等前端工程化实践。
+    - 深入理解浏览器工作原理，熟悉浏览器渲染机制（包括 HTML 解析、CSS 解析与布局、JavaScript 执行与渲染树构建）、事件循环机制（Event Loop）、存储机制（如 LocalStorage、SessionStorage、Cookie）掌握前端性能优化技术。
+    - 熟练使用 Git 版本控制, 敏捷开发实践。
+    - 具备良好的英语阅读能力，能够查阅英文技术文档与资料，关注前端技术社区，及时了解行业最新技术动态与发展趋势，有较强的学习能力与自我驱动力，能快速掌握新技术并应用于实际项目。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 认证证书
+- Certified Kubernetes Administrator（CKA）
+- AWS Certified Solutions Architect - Professional
+- HarmonyOS应用开发者高级认证
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cailu0422/cailu0422.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 自我评价
+- 对 Web 前端开发充满热情，具备扎实的专业知识与丰富的实践经验，能独立承担项目开发任务并推动项目进展。
+- 善于学习与应用新技术，具备较强的问题解决能力与创新思维，能够快速适应新环境与新需求，在项目开发中不断追求卓越与高效。
+- 拥有良好的团队协作精神与沟通能力，能够与不同背景的团队成员紧密合作，共同攻克技术难题，确保项目按时高质量交付。注重代码质量与可维护性，遵循最佳实践与代码规范，致力于打造用户体验良好且性能卓越的前端应用。 
